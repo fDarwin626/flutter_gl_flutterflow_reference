@@ -12,8 +12,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_gl_flutterflow:
-    path: ../
+  coconut_flutter_gl:
+    path: ../    
   cupertino_icons: ^1.0.4
   path: ^1.8.0
   path_provider: ^2.0.9

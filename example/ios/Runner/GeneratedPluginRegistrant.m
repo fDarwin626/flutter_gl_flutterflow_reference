@@ -6,10 +6,10 @@
 
 #import "GeneratedPluginRegistrant.h"
 
-#if __has_include(<flutter_gl_flutterflow/FlutterGlPlugin.h>)
-#import <flutter_gl_flutterflow/FlutterGlPlugin.h>
+#if __has_include(<coconut_flutter_gl/FlutterGlPlugin.h>)
+#import <coconut_flutter_gl/FlutterGlPlugin.h>
 #else
-@import flutter_gl_flutterflow;
+@import coconut_flutter_gl;
 #endif
 
 @implementation GeneratedPluginRegistrant

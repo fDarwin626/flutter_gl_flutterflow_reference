@@ -18,7 +18,7 @@ public final class GeneratedPluginRegistrant {
     try {
       flutterEngine.getPlugins().add(new com.futouapp.flutter_gl.flutter_gl.FlutterGlPlugin());
     } catch (Exception e) {
-      Log.e(TAG, "Error registering plugin flutter_gl_flutterflow, com.futouapp.flutter_gl.flutter_gl.FlutterGlPlugin", e);
+      Log.e(TAG, "Error registering plugin coconut_flutter_gl, com.futouapp.flutter_gl.flutter_gl.FlutterGlPlugin", e);
     }
     try {
       flutterEngine.getPlugins().add(new com.github.dart_lang.jni.JniPlugin());

@@ -1,6 +1,5 @@
 import 'dart:typed_data';
-import 'package:flutter_gl_flutterflow/native-array/index.dart';
-
+import 'package:coconut_flutter_gl/native-array/index.dart';
 import 'OpenGL30Constant.dart';
 
 getContext(Map<String, dynamic> parameters) {

@@ -8,7 +8,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 
 import 'package:flutter/widgets.dart';
-import 'package:flutter_gl_flutterflow/flutter_gl.dart';
+import 'package:coconut_flutter_gl/flutter_gl.dart';
 
 class ExampleTriangle01 extends StatefulWidget {
   _MyAppState createState() => _MyAppState();
