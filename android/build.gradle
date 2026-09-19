@@ -14,16 +14,15 @@ buildscript {
     }
 }
 
+def flutterGlLibsDir = projectDir
+
 rootProject.allprojects {
     repositories {
         google()
         mavenCentral()
-    }
-}
-
-repositories {
-    flatDir {
-        dirs "${projectDir}/libs/aars"
+        flatDir {
+            dirs "${flutterGlLibsDir}/libs/aars"
+        }
     }
 }
 
