@@ -1,6 +1,6 @@
 name: coconut_flutter_gl
 description: Cross-platform OpenGL API for Flutter through dart:ffi. Fixed platformViewRegistry deprecation for Flutter 3.32.4+. 3D programming with Texture Widget support.
-version: 0.0.24
+version: 0.0.26
 homepage: https://github.com/fDarwin626/flutter_gl_flutterflow_reference
 repository: https://github.com/fDarwin626/flutter_gl_flutterflow_reference
 

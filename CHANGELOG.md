@@ -1,4 +1,4 @@
-## 0.0.24
+## 0.0.26
 
 ### Fixed
 - **BREAKING FIX**: Fixed `platformViewRegistry` deprecation for Flutter 3.32.4+
